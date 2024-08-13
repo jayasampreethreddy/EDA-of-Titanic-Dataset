@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project aims to predict outcomes using advanced machine learning techniques. By leveraging a dataset containing relevant features, we apply robust algorithms to analyze patterns and make accurate predictions. Key files include the dataset, model implementation script, and this README file that provides a comprehensive overview.
+This project aims to predict outcomes using advanced machine learning techniques. By leveraging a dataset containing relevant features, we apply robust algorithms to analyze patterns and make accurate predictions. Key files include the dataset and model implementation script.
 
 ## Approach
 
